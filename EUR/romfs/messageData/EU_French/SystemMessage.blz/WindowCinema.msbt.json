@@ -10,7 +10,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement_Ok",
-        "text": ""
+        "text": "Accepter"
       }
     ],
     [],
@@ -28,7 +28,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement",
-        "text": ""
+        "text": "Veuillez lire les informations\naffichées sur l'écran supérieur\navant de continuer."
       }
     ],
     [],
@@ -39,13 +39,13 @@
     [
       {
         "label": "WindowInfo_Contents_Cinema_Agreement",
-        "text": ""
+        "text": "N'envoyez pas de Flipnotes incluant du\ncontenu illégal ou offensant et/ou portant\natteinte aux droits d'autrui. En envoyant\nune Flipnote, vous confirmez avoir obtenu\nles droits ainsi que les autorisations de\ntiers nécessaires. Vous acceptez aussi\nqu'une Flipnote non verrouillée puisse être\nmodifiée, publiée sur Internet ou partagée\npar un tiers."
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement",
-        "text": ""
+        "text": "Ouvrir le navigateur Internet?"
       }
     ],
     [],
@@ -64,7 +64,7 @@
     [
       {
         "label": "WindowInfo_Title_Cinema_Agreement",
-        "text": ""
+        "text": "Important"
       }
     ],
     [],
@@ -91,7 +91,7 @@
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],
@@ -123,7 +123,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement",
-        "text": ""
+        "text": "Ouvrir le navigateur Internet\nvers la page suivante?\n\n\u000e\u0001\u0005"
       }
     ],
     [],
@@ -133,7 +133,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],

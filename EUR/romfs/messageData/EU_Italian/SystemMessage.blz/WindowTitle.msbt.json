@@ -60,7 +60,7 @@
     [
       {
         "label": "WindowWait_Cinema_CancelEula",
-        "text": "L'Archivio Nintendo DSi\nnon può essere utilizzato."
+        "text": "la Galleria Kaeru\nnon può essere utilizzato."
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowWait_Cinema_Restrict",
-        "text": "Non è possibile accedere\nall'Archivio Nintendo DSi\nperché questa modalità\nè limitata dal filtro famiglia."
+        "text": "Non è possibile accedere\nalla Galleria Kaeru\nperché questa modalità\nè limitata dal filtro famiglia."
       }
     ],
     [],

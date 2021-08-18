@@ -60,7 +60,7 @@
     [
       {
         "label": "WindowWait_Cinema_CancelEula",
-        "text": "No se puede usar la\nBiblioteca Nintendo DSi."
+        "text": "No se puede usar \nla Galería Kaeru."
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowWait_Cinema_Restrict",
-        "text": "La Biblioteca Nintendo DSi está\nrestringida por el control parental\ny no se puede usar."
+        "text": "La Galería Kaeru está\nrestringida por el control parental\ny no se puede usar."
       }
     ],
     [],

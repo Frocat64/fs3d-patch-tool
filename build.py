@@ -89,6 +89,7 @@ def build_romfs_dir(src_path, output_path):
       darc_entry = darc.root.add_entry()
       # If the file ends with .msbt.json, compile this to an .msbt
       if child.match('*.msbt.json'):
+        print(child)
         msbt = Msbt.from_json(child)
         darc_entry.name = str(child.relative_to(src_path).with_suffix(''))
         darc_entry.data = msbt.write()

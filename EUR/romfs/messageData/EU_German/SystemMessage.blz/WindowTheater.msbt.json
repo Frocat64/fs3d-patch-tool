@@ -99,7 +99,7 @@
     [
       {
         "label": "WindowConfirm_Theater_UpdatePatch",
-        "text": "Diese Software muss\naktualisiert werden, bevor das\nNintendo DSi-Archiv verwendet\nwerden kann.\nMöchtest du die neueste\nVersion dieser Software\njetzt herunterladen?"
+        "text": "Diese Software muss\naktualisiert werden, bevor das\nKaeru-Galerie verwendet\nwerden kann.\nMöchtest du die neueste\nVersion dieser Software\njetzt herunterladen?"
       }
     ],
     [],
@@ -202,7 +202,7 @@
     [
       {
         "label": "WindowWait_Theater_Login",
-        "text": "Verbindungsaufbau mit\ndem Nintendo Network..."
+        "text": "Verbindungsaufbau mit\nder Kaeru-Galerie..."
       }
     ],
     [],

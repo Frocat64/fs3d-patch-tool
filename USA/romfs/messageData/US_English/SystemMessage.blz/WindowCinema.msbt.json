@@ -10,7 +10,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement_Ok",
-        "text": ""
+        "text": "I agree"
       }
     ],
     [],
@@ -28,7 +28,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement",
-        "text": ""
+        "text": "Please read the information\non the upper screen before\nproceeding."
       }
     ],
     [],
@@ -39,13 +39,13 @@
     [
       {
         "label": "WindowInfo_Contents_Cinema_Agreement",
-        "text": ""
+        "text": "Do not send Flipnotes that are illegal,\noffensive or could infringe on the rights\nof others. By sending a Flipnote, you\nconfirm that you have obtained all\nnecessary rights and permissions from\nthird parties. You also agree that unlocked\nFlipnotes may be edited, posted to the\ninternet or further shared with third parties."
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement",
-        "text": ""
+        "text": "Launch the Internet Browser?"
       }
     ],
     [],
@@ -64,7 +64,7 @@
     [
       {
         "label": "WindowInfo_Title_Cinema_Agreement",
-        "text": ""
+        "text": "Caution!"
       }
     ],
     [],
@@ -91,7 +91,7 @@
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],
@@ -123,7 +123,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement",
-        "text": ""
+        "text": "Would you like to launch\nthe Internet Browser and\nopen the following page?\n\n\u000e\u0001\u0005"
       }
     ],
     [],
@@ -133,7 +133,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],

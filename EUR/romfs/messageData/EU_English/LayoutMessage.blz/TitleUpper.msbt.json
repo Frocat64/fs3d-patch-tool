@@ -20,7 +20,7 @@
     [
       {
         "label": "TitleUpper_TxtVersion",
-        "text": "\n\nVer. 1.0.1\nIPS 4.0.0"
+        "text": "\n\nVer. 1.0.1\nKaeru v. 4.0 (IPS)"
       }
     ],
     [],
@@ -104,7 +104,7 @@
     [
       {
         "label": "TitleUpper_TxtCopywrite",
-        "text": "© 2013 Nintendo"
+        "text": "© 2013 Nintendo; © 2021 Kaeru Team"
       }
     ],
     [],
