@@ -10,7 +10,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement_Ok",
-        "text": ""
+        "text": "Aceptar"
       }
     ],
     [],
@@ -28,7 +28,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement",
-        "text": ""
+        "text": "Lee la información de la pantalla\nsuperior antes de seguir\nadelante."
       }
     ],
     [],
@@ -39,13 +39,13 @@
     [
       {
         "label": "WindowInfo_Contents_Cinema_Agreement",
-        "text": ""
+        "text": "No envíes notas ilegales, ofensivas o que\npuedan infringir los derechos de otros.\nAl enviar una nota, confirmas que has\nobtenido todos los derechos necesarios\nde terceras partes. Además, comprendes\ny aceptas que las notas que no bloquees\npodrán ser editadas, publicadas en\ninternet o compartidas de nuevo con\nterceras partes."
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement",
-        "text": ""
+        "text": "¿Abrir el navegador de Internet?"
       }
     ],
     [],
@@ -64,7 +64,7 @@
     [
       {
         "label": "WindowInfo_Title_Cinema_Agreement",
-        "text": ""
+        "text": "Advertencia"
       }
     ],
     [],
@@ -91,7 +91,7 @@
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
-        "text": ""
+        "text": "Sí"
       }
     ],
     [],
@@ -123,7 +123,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement",
-        "text": ""
+        "text": "¿Abra el navegador\nde Internet en\nla siguiente página?\n\n\u000e\u0001\u0005"
       }
     ],
     [],
@@ -133,7 +133,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
-        "text": ""
+        "text": "Sí"
       }
     ],
     [],

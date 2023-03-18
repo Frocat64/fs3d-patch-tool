@@ -1,7 +1,8 @@
 # Patch files
 luma/
+bak/
 # cert files
-*.der
+# *.der
 # blz binary
 blz
 blz.*

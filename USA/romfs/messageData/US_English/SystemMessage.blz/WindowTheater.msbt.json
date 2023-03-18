@@ -25,13 +25,13 @@
     [
       {
         "label": "WindowConfirm_Theater_AppJumpToEshop",
-        "text": ""
+        "text": "Software not found.\n\nQuit Flipnote Studio 3D and\nlaunch Nintendo eShop?"
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_PostCommentMemo",
-        "text": ""
+        "text": "Post this comment?"
       }
     ],
     [
@@ -54,7 +54,7 @@
     [
       {
         "label": "WindowConfirm_Theater_PostCommentMemo_Return",
-        "text": ""
+        "text": "Stop drawing this comment?\n\nIt will not be saved."
       }
     ],
     [],
@@ -70,7 +70,7 @@
     [
       {
         "label": "WindowWait_Theater_CancelPostMemo",
-        "text": ""
+        "text": "Cancelling upload..."
       }
     ],
     [],
@@ -94,11 +94,16 @@
     [
       {
         "label": "WindowConfirm_Theater_UpdatePatch",
-        "text": "This software must be updated\nbefore Nintendo DSi Library\ncan be used.\n\nDo you want to download\nthe newest version of this\nsoftware now?"
+        "text": "This software must be updated\nbefore Kaeru Gallery\ncan be used.\n\nDo you want to download\nthe newest version of this\nsoftware now?"
       }
     ],
     [],
-    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo",
+        "text": "Preparing to upload..."
+      }
+    ],
     [],
     [],
     [],
@@ -114,7 +119,7 @@
     [
       {
         "label": "WindowConfirm_Theater_EshopJump",
-        "text": ""
+        "text": "Exit Flipnote Studio 3D and\nlaunch Nintendo eShop?"
       }
     ],
     [],
@@ -142,7 +147,7 @@
     [
       {
         "label": "WindowConfirm_Theater_AppJump_Ok",
-        "text": ""
+        "text": "Launch"
       }
     ],
     [],
@@ -150,7 +155,7 @@
     [
       {
         "label": "WindowWait_Theater_PostMemo_CancelButton",
-        "text": ""
+        "text": "Cancel"
       },
       {
         "label": "WindowWait_Theater_QrCode_Reading_CancelButton",
@@ -165,7 +170,7 @@
     [
       {
         "label": "WindowWait_Theater_PostMemo",
-        "text": ""
+        "text": "Uploading..."
       },
       {
         "label": "WindowWait_Theater_MemoDownload",
@@ -182,30 +187,30 @@
     [
       {
         "label": "WindowConfirm_Theater_EshopJump_Ok",
-        "text": ""
+        "text": "Launch"
       },
       {
         "label": "WindowConfirm_Theater_AppJump",
-        "text": ""
+        "text": "Quit Flipnote Studio 3D\nand launch the following software?\n\n\u000e\u0001\u0006\u0002"
       }
     ],
     [
       {
         "label": "WindowWait_Theater_Login",
-        "text": "Connecting to\nNintendo Network..."
+        "text": "Connecting to\nKaeru Gallery..."
       }
     ],
     [],
     [
       {
         "label": "WindowConfirm_Theater_AppJumpToEshop_Ok",
-        "text": ""
+        "text": "Open eShop"
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_PostCommentMemo_Return_Ok",
-        "text": ""
+        "text": "OK"
       },
       {
         "label": "WindowConfirm_Theater_QrCode_PageJump_Ok",
@@ -218,7 +223,12 @@
     [],
     [],
     [],
-    [],
+    [
+      {
+        "label": "WindowWait_Theater_Prepare_Post_Memo_CancelButton",
+        "text": "Cancel"
+      }
+    ],
     [],
     [],
     [],
@@ -239,7 +249,7 @@
     [
       {
         "label": "WindowWait_Theater_AppJump_NotFound",
-        "text": ""
+        "text": "Required app not found."
       }
     ],
     [],

@@ -13,7 +13,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtStarCoin",
-        "text": ""
+        "text": "Pièce étoile"
       }
     ],
     [],
@@ -36,7 +36,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtCancel",
-        "text": ""
+        "text": "Annuler"
       }
     ],
     [],
@@ -70,7 +70,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtCoin",
-        "text": ""
+        "text": "Pièce"
       }
     ],
     [],
@@ -88,7 +88,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtOK",
-        "text": ""
+        "text": "OK"
       }
     ],
     [],
@@ -113,7 +113,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtSecret",
-        "text": ""
+        "text": "Garder l'anonymat."
       }
     ],
     [],
@@ -126,7 +126,7 @@
     [
       {
         "label": "WindowTheaterPay_TxtMessage",
-        "text": ""
+        "text": "Récompenser avec une pièce\npour une bonne Flipnote !"
       }
     ],
     [],

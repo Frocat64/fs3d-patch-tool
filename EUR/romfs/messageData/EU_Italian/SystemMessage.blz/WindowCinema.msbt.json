@@ -10,7 +10,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement_Ok",
-        "text": ""
+        "text": "Accetto"
       }
     ],
     [],
@@ -28,7 +28,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Agreement",
-        "text": ""
+        "text": "Prima di proseguire, leggi\nle informazioni riportate\nsullo schermo superiore."
       }
     ],
     [],
@@ -39,13 +39,13 @@
     [
       {
         "label": "WindowInfo_Contents_Cinema_Agreement",
-        "text": ""
+        "text": "Non inviare Flipnote con contenuti illegali,\noffensivi o lesivi dei diritti di altre persone.\nInviando un Flipnote confermi di avere\nottenuto da terze parti tutti i diritti e\npermessi necessari. Inoltre, accetti che\ni Flipnote non protetti possano essere\nmodificati, pubblicati su Internet e\ncondivisi con terze parti."
       }
     ],
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement",
-        "text": ""
+        "text": "Aprire il browser Internet?"
       }
     ],
     [],
@@ -64,7 +64,7 @@
     [
       {
         "label": "WindowInfo_Title_Cinema_Agreement",
-        "text": ""
+        "text": "Avviso!"
       }
     ],
     [],
@@ -91,7 +91,7 @@
     [
       {
         "label": "WindowConfirm_Theater_Browser_General_Agreement_Ok",
-        "text": ""
+        "text": "Sì"
       }
     ],
     [],
@@ -123,7 +123,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement",
-        "text": ""
+        "text": "Aprire il browser Internet\nalla pagina seguente?\n\n\u000e\u0001\u0005"
       }
     ],
     [],
@@ -133,7 +133,7 @@
     [
       {
         "label": "WindowConfirm_Cinema_Browser_Agreement_Ok",
-        "text": ""
+        "text": "Sì"
       }
     ],
     [],
